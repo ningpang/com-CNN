@@ -1,0 +1,11 @@
+The dataset is constructed by Fan et al.
+If you would like to use the data, please contact the authors of paper <Exploratory Neural Relation Classification for Domain Knowledge
+Acquisition>.
+
+@inproceedings{fan2018exploratory,
+  title={Exploratory Neural Relation Classification for Domain Knowledge Acquisition},
+  author={Fan, Yan and Wang, Chengyu and He, Xiaofeng},
+  booktitle={Proceedings of the 27th International Conference on Computational Linguistics},
+  pages={2265--2276},
+  year={2018}
+}
