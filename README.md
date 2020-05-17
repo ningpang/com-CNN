@@ -1,11 +1,18 @@
 # com-CNN
-====
+
 Requirements:
 ----
 * python=3.6
 * Pytorch>0.4.1
 * Numpy
 * scikit-learn
+
+
+Datasets:
+----
+Wiki: contact with the authors of 'Exploratory Neural Relation Classification for Domain Knowledge Acquisition'
+Baike: https://github.com/celtics7/BaiduBaike
+
 
 
 We will keep updating our code.
