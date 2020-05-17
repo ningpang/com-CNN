@@ -1,11 +1,11 @@
 # com-CNN
-===
+====
 Requirements:
----
-*python=3.6
-*Pytorch>0.4.1
-*Numpy
-*scikit-learn
+----
+* python=3.6
+* Pytorch>0.4.1
+* Numpy
+* scikit-learn
 
 
 We will keep updating our code.
