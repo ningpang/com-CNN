@@ -15,6 +15,8 @@ Datasets:
 
 Usage:
 ----
+* prepare data <br>
+python prepare_data.py
 
 * training <br>
 python train.py 
