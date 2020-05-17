@@ -7,19 +7,21 @@ Requirements:
 * Numpy
 * scikit-learn
 
-
 Datasets:
 ----
-Wiki: contact with the authors of 'Exploratory Neural Relation Classification for Domain Knowledge Acquisition'
-Baike: https://github.com/celtics7/BaiduBaike
+* Wiki: contact with the authors of `Exploratory Neural Relation Classification for Domain Knowledge Acquisition`
+* Baike: https://github.com/celtics7/BaiduBaike
 
+Usage:
+----
+* training
+python train.py 
 
-
-We will keep updating our code.
+* testing
+python test.py
 
 
 
 ****
 The data preprocessing method can be seen at https://github.com/ningpang/data_preprocess.
-
 ****
