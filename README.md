@@ -16,10 +16,10 @@ Datasets:
 Usage:
 ----
 
-* training
+* training <br>
 python train.py 
 
-* testing
+* testing <br>
 python test.py
 
 ****
