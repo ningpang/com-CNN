@@ -1,4 +1,5 @@
-# com-CNN
+# com-CNN：Domain relation extraction from noisy Chinese texts
+This is the repository for our paper entitled with Domain relation extraction from noisy Chinese texts [here](https://www.sciencedirect.com/science/article/pii/S0925231220311917) .
 
 Requirements:
 ----
